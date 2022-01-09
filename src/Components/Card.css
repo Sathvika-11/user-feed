@@ -1,0 +1,66 @@
+.Card{
+    width:600px;
+    height:400px;
+    background:white;
+    border-radius:3px;
+    box-shadow: 0px 1px 5px 1px black;
+    
+}
+.image{
+    background: white;
+    width:100px;
+    height:100px;
+    float: left;
+    padding-left:20px;
+    padding-top: 30px;
+    border-radius: 50%;
+    }
+.text{
+   
+    padding-right: 20px;
+    float:right;
+}
+.uppercontainer{
+    height: 100px;
+    margin-bottom: 50px;
+    padding-top: 20px;
+    
+
+}
+.about{
+    color: rgb(116, 114, 114);
+}
+.about1{
+    color: rgb(116, 114, 114);
+    padding-right: 300px;
+}
+.name{
+    padding-right: 300px;
+    
+}
+.lowercontainer{
+     height:200px;
+    
+}
+.about3{
+    color: rgb(116, 114, 114);
+    padding-right: 250px;
+    
+}
+
+.b{
+    background: white;
+    color:rgb(20, 80, 211);
+    border-color: white;
+    font-weight: 50px;
+    margin-right: 20px;
+    
+    
+}
+.btn{
+    padding-right:250px ;
+}
+.count{
+    color: rgb(116, 114, 114);
+    padding-right: 250px;
+}
